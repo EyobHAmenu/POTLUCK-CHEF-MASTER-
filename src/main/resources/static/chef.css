@@ -1,0 +1,41 @@
+body{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+    background-color: wheat;
+}
+.home-0{
+    padding: 60px;
+}
+.home-1{
+    font-size: 100px;
+    color: goldenrod;
+}
+.home-2{
+    font-size: 100px;
+    color: black;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.home-3{
+    padding: 0px 300px 30px 100px;
+}
+.add-1{
+    text-align: center;
+    color: olive;
+}
+.profile-1{
+    padding-bottom: 100px;
+    padding-left: 120px;
+    alignment: right;
+}
+.profile-2{
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+.profile-3{
+    font-family: 'Tangerine', cursive;
+    font-size: 20px;
+}
